@@ -1,6 +1,7 @@
 # myproj
 template go project
 
+```
 myproj/
   ├── Makefile          # ビルド定義の他タスクランナー的にも利用
   ├── myproj.go         # ソースコード
@@ -15,3 +16,4 @@ myproj/
   ├── internal/         # 外部から利用されたくないパッケージを配置
   ├── testdata/         # fixtureなどのテストデータを配置
   ├── _tools/           # Go以外のシェルスクリプトを配置
+```
